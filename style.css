@@ -1,0 +1,24 @@
+body{
+  background-color: DimGrey;
+  font-family:sans-serif;
+}
+.abc{
+  width:60px;
+  height:60px;
+  border:2px solid black;
+  display: inline-block;
+  margin-left: 20px;
+  text-align: center;
+  background-color: #66CDAA;
+  color:floralwhite;
+  border-radius: 15%;
+}
+.my:hover{
+  color: white;
+  background-color:darkorange;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
